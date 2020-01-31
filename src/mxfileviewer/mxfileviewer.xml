@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="mxfileviewer.widget.mxfileviewer" needsEntityContext="true" xmlns="http://www.mendix.com/widget/1.0/">
+	<name>mxfileviewer</name>
+	<description>View File Documents</description>
+	<icon>iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAYAAABxLuKEAAABLklEQVR4nO3XvQ3DIBCG4VsjfTbIANkjVSQWjDJZNnCqayyfwebnAL8nfQUgC/PIgCxCUUXrdXssIwcYL5jv8z5URGQRkXpAwCTCaFnto/25z1v9GzAaYLqC6aUNDDDAAAMMMFzXwEz0SwBMExid6Pd5byY27hVggAFmbhh9kdiL5y4cmFlgvAMMMMCMBSPGYVfr8C01DowXjAVw+a0EzEmY3gKMN4z1yV5+KwFTCEYi12nqwnLHgRkFxjvAAAPMWDBiHHZnD9/ccWB6h4n9EnhvHWBGg+ktwHjDWJ/s5bcSMIVgpPJ1DMxsMN4BBphjICGEJYQAzDQwUvhwXoNoPzCzwNTaOjsgwDSB0QnW0Yli7dppDgJMJlBvaQYCTHo12yaZaV7eC+4WhqIoKrX+B2UBsoHJWuAAAAAASUVORK5CYII=   </icon>
+
+	<properties>
+		<property key="dummyKey" type="string" required="false" defaultValue="">
+			<caption>Dummy key</caption>
+			<category>Appearance</category>
+			<description>This key was added to make the widget work in the Modeler (needs atleast 1 key). Please change/remove this one</description>
+		</property>
+	</properties>
+</widget>
